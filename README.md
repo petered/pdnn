@@ -4,7 +4,7 @@
 This is the code for our paper, [Temporally Efficient Deep Learning with Spikes](https://arxiv.org/abs/1706.04159).
 
 
-To set up this repo, go:
+To install (OSX/Linux), in terminal, go:
 
 ```
 git clone https://github.com/petered/pdnn.git
@@ -12,7 +12,7 @@ cd pdnn
 source setup.sh
 ```
 
-You can then run
+After setup is complete, you should be able to run:
 
 ```
 python pdnn/figures.py
