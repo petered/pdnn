@@ -1,7 +1,7 @@
 
 # Proportional-Derivative Neural Networks
 
-This is the code for our paper, Temporally Efficient Deep Learning with Spikes (arxiv link coming soon).
+This is the code for our paper, [Temporally Efficient Deep Learning with Spikes](https://arxiv.org/abs/1706.04159).
 
 
 To set up this repo, go:
