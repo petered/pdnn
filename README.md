@@ -4,7 +4,7 @@
 This is the code for our paper, [Temporally Efficient Deep Learning with Spikes](https://arxiv.org/abs/1706.04159).
 
 
-To install (OSX/Linux), in terminal, go:
+To install (on OSX, Linux) go:
 
 ```
 git clone https://github.com/petered/pdnn.git
